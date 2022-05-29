@@ -10,4 +10,4 @@ Run `python3 main.py`
 ![screenshots](data/screenshot.png)
 
 ## Performance
-Around 10-15 FPS using NVIDIA GeForce GTX 1650
+10-15 FPS using _NVIDIA GeForce GTX 1650_
